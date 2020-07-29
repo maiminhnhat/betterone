@@ -24,11 +24,16 @@ nav.navbar ul li a{
     text-transform: uppercase;
     font-weight: bold;
 }
+
 nav.navbar ul {
     width:100%;
 }
+
 nav.navbar ul li:last-child{
     float: right;
+    left: 61px;
+    top: 5px;
+
 }
 
 
