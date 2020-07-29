@@ -1,0 +1,171 @@
+.carousel-caption hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    border-top: 6px solid #a91605;
+    width: 20%;
+
+}
+
+.carousel-caption{
+    top: 23%;
+    left: 20%;
+    padding-bottom: 30px;
+}
+.carousel-caption h1{
+    font-size: 28pt;
+    text-align: left;
+    
+}
+.carousel-caption .btn{
+    text-shadow: none;
+    float: left;
+    font-size: 19px;
+    padding: 8px;
+    background-color: #a91605;
+}
+
+
+
+
+main .main-top .main-content h2
+{
+    color: red;
+    font-size: 30pt;
+    margin-bottom: 20px;
+}
+main .main-top .main-content h3
+{
+    color: #75838f;
+    font-size: 12pt;
+    margin-bottom: 10px;
+    
+   
+}
+main .main-top .main-content hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    border-top: 3px solid red;
+    width: 20%;
+
+  
+    
+}
+
+
+
+main .main-top .product{
+    border-style: solid;
+    border-width: 1px;
+
+}
+main .main-top .product a{
+    color: red;
+    padding-left: 12px;
+}
+
+main .main-top .product a:hover{
+    color: darkred;
+}
+
+main .main-top .product h4{
+    padding-left: 10px;
+}
+
+main .main-top .product h5{
+    padding-left: 10px;
+    line-height: 25px;
+}
+main .main-center{
+    display: flex;
+    padding-top:40px;
+    
+}
+main .main-center .content{
+    border-style: solid;
+    border-width: 1px;
+    background-color: #333333;
+    color: white;
+
+}
+main .main-center .content h2{
+    padding-left: 37px;
+}
+main .main-center .content hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+    margin-left: 40px;
+    border-top: 3px solid red;
+    width: 20%;
+
+
+}
+main .main-center .content h5{
+    padding-left: 37px;
+    text-align: justify;
+    line-height: 27px;
+    padding-right: 30px;
+    
+}
+main .main-center .content a {
+    text-decoration: none !important;
+    padding-left: 40px;
+    color: red;
+}
+main .main-center .content a:hover{
+    color: darkred;
+}
+
+main .main-bottom .main-content h2
+{
+    color: red;
+    font-size: 30pt;
+    margin-bottom: 20px;
+}
+main .main-bottom .main-content h3
+{
+    color: #75838f;
+    font-size: 12pt;
+    margin-bottom: 40px;
+    
+   
+}
+main .main-bottom .main-content hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    border-top: 3px solid red;
+    width: 20%;
+
+  
+    
+}
+main .main-bottom .product{
+    margin-bottom: 120px;
+}
+
+
+
+main .main-bottom .product a{
+    color: red;
+    padding-left: 12px;
+}
+
+main .main-bottom .product a:hover{
+    color: darkred;
+}
+
+main .main-bottom .product h4{
+    padding-left: 10px;
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+main .main-bottom .product h5{
+    padding-left: 10px;
+    line-height: 24px;
+}
+

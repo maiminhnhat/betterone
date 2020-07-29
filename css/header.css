@@ -1,0 +1,79 @@
+/* header_top */
+header .header_top {
+   background-image: url('../images/images/header_top.png');
+   height: 34px;
+  background-repeat: round;
+
+}
+header .header_top .header_text{
+    text-align: right;
+    padding: 5px 10px;
+    color: white;
+  
+}
+header .header_top .icon-flag{
+    padding: 7px 0;
+
+}
+header .header_top .icon{
+    margin: 0 20px;
+
+}
+header .header_top .icon a{
+    color: black;
+    margin-right: 5px;
+    background: white;
+    padding: 1px 2px;
+    border-radius: 3px;
+    font-size: 12px;
+
+
+}
+header .header_top .icon a:hover{
+    background: #a91605;
+    color:white;
+}
+
+header .header_top .icon a:last-child
+{
+    margin-right: 0;
+}
+
+/* 
+Header bottom */
+header .header_bottom .phone{
+    display: flex;
+    padding: 15px 0;
+}
+header .header_bottom .phone .text ,header .header_bottom .change-contact .text-change
+{
+    font-family: 'Open Sans Extrabold';
+    font-size: 12px;
+    text-transform: uppercase;
+  
+}
+header .header_bottom .phone .iconp{
+    font-size: 45px;
+    position: relative;
+    bottom: 15px;
+}
+
+
+header .header_bottom .img_phone{
+    padding: 14px 0;
+    padding-top: 15px;
+}
+header .header_bottom .change-contact
+{
+    display: flex;
+}
+header .header_bottom .change-contact .text-change{
+    width: 60%;
+    padding-top: 15px;
+}
+header .header_bottom .change-contact .cotact{
+    padding: 20px 0;
+    width: 40%;
+}
+
+

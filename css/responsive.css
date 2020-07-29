@@ -1,0 +1,32 @@
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    nav.navbar {
+        border-radius: 4px;
+        background-image: url('../images/images/menu2.png');
+        background-repeat: round;
+    }
+    .navbar-nav {
+        float: left;
+        margin: 0;
+        margin-left: 35px;
+        
+    } 
+    .carousel-inner .item img{
+        width: 100%;
+    }
+header .header_top .header_text{
+   font-size: 13px;
+   }
+header .header_top .icon{
+    margin: 0 5px;
+
+   }
+main .main-center {
+    display: block;
+   
+
+   }
+main .main-center .image img{
+    width: 100%;
+   }
+
+}

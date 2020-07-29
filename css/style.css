@@ -1,0 +1,16 @@
+@font-face
+{
+    font-family: 'Open Sans Extrabold';
+    src: url(../fonts/Open\ Sans\ Extrabold.ttf);
+
+}
+
+a{
+    text-decoration: none !important;
+
+}
+
+.p-l-0
+{
+    padding-left: 0;
+}
